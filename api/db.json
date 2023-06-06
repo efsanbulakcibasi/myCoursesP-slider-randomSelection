@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Yazılım (Java) eğitimlerinde ana hedef, yazılım dünyasının en popüler programlama dillerinden Java’yı temelden başlayarak, kendine has tüm incelik ve kurallarıyla öğretmektir.Eğitimde veritabanı yönetimi ve programlanması, en popüler ve yaygın kullanılan ilişkisel veritabanı yönetim sistemlerinden biri ile gerçekleştirilir.",
+      "title": "Yazılım Java Eğitim Programı",
+      "price": "50000"
+    },
+    {
+      "id": 2,
+      "content": "Bu eğitim dünyanın en popüler programlama dillerinin başında gelen Python programlama dilini, NoSql veri tabanı yönetim sistemi olan MongoDB’yi, MongoDB ile Python programlama dili arasındaki ilişkiyi, dünyanın en popüler Client Side web yazılım geliştirme frameworklerini ve Python ile Server Side web geliştirme teknolojisi Django frameworkünü kullanmayı ve Python ile makine öğrenimi alanında uygulama geliştirmeyi ele alır.",
+      "title": "Application Development with Python",
+      "price": "60000"
+    },
+    {
+      "id": 3,
+      "content": "Bu eğitim; React ile HTML, CSS ve JavaScript dillerini kullanımını, Visual Studio Code ortamında, Front-End uygulama geliştirmenin detaylarını kapsamaktadır.HTML5, CSS3 ve JavaScript kütüphaneleriyle web tabanlı uygulamalar geliştirmek ve kendisini bu alanda uzmanlaştırmak isteyen,Web Programlama’nın daha görsel tarafında bulunmak isteyen,Uluslararası piyasadaki iş fırsatlarını değerlendirmek isteyen,",
+      "title": "HTML, CSS, JavaScript ve React.js ile Uygulama Geliştirme",
+      "price": "70000"
+    },
+    {
+      "id": 4,
+      "content": "Bu eğitim; React Native ile HTML, CSS ve JavaScript dillerini kullanımını, Visual Studio Code ortamında, Android ve iOS işletim sistemleri için mobil uygulama geliştirmenin detaylarını kapsamaktadır.Mobil Geliştirici olmak isteyen,Gelecekte ReactJS ile Front-End geliştirme de yapmayı düşünen,Uluslararası piyasadaki iş fırsatlarını değerlendirmek isteyen,",
+      "title": "React Native",
+      "price": "80000"
+    },
+    {
+      "id": 5,
+      "content": "Bu eğitim Kotlin dili kullanılarak, Android Studio geliştirme ortamında, Android işletim sistemi için mobil uygulama geliştirmenin detaylarını kapsamaktadır. Eğitim sırasında Kotlin dilinin temelleri, Android işletim sisteminin özellikleri, UI geliştirme, konum servislerinin ve cihaz özelliklerinin kullanımı gibi konular anlatılacaktır. Bu eğitimde dünyanın en yaygın mobil işletim sistemi olan Android için mobil uygulama geliştirme yöntemleri anlatılır.",
+      "title": "Android with Kotlin",
+      "price": "90000"
+    },
+    {
+      "id": 6,
+      "content": "Bu eğitim; Swift dili ve Cocoa Touch Framework kullanılarak, Xcode geliştirme ortamında, iOS işletim sistemi için mobil uygulama geliştirmenin detaylarını kapsamaktadır. Ayrıca geliştirilen uygulamaların mobil cihazların donanımsal bileşenlerine entegre olarak, Swift programlama dili ile birlikte stabil ve entegre şekilde çalışması için gerekli bilgileri içermektedir.",
+      "title": "iOS with Swift",
+      "price": "100000"
+    }
+  ]
+}
